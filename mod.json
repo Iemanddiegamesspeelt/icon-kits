@@ -1,0 +1,20 @@
+{
+    "geode": "5.8.2",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081"
+    },
+    "id": "idgs.icon-kits",
+    "name": "Icon Kits",
+    "version": "v1.0.1",
+    "developer": "idgs",
+    "description": "Save unlimited icon presets and instantly switch between them without replacing your current setup.",
+    "tags": ["customization", "interface", "utility"],
+    "dependencies": {
+        "geode.node-ids": ">=1.0.0"
+    },
+    "issues": {
+        "info": "Report issues via the Geode mod index."
+    }
+}
